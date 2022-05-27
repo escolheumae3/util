@@ -107,7 +107,7 @@ LOG="/var/log/$(echo $0 | cut -d'/' -f2)"
 # Variáveis de configuração do usuário root e senha do MySQL para acesso via console e do PhpMyAdmin
 # Observação: essa senha será utilizada no usuário: ocs do Banco de Dados do OCS Inventory - mesma configurada no arquivo lamp.sh
 USER="root"
-PASSWORD="pti@2018"
+PASSWORD="mudar@123"
 #
 # Variável de download do OCS Inventory Server e Reports
 # Site: https://www.ocsinventory-ng.org/en/
