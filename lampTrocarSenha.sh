@@ -77,8 +77,8 @@ KERNEL=$(uname -r | cut -d'.' -f1,2)
 LOG="/var/log/$(echo $0 | cut -d'/' -f2)"
 #
 # Variáveis de configuração do usuário root e senha do MySQL para acesso via console e do PhpMyAdmin
-USER="ocsarebee"
-PASSWORD="ocs@rebee"
+USER="root"
+PASSWORD="@rebee2022"
 AGAIN=$PASSWORD
 #
 # Variáveis de configuração e liberação da conexão remota para o usuário Root do MySQL
